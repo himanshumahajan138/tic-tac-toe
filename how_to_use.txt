@@ -1,0 +1,52 @@
+                 ##### WELCOME #####
+This Image To Pdf Is Made By ""HIMANSHU MAHAJAN""
+
+How To Use??
+
+1: Click On The Add Image Button to Add Images Or On Add folder Button If Want to Add a Folder 
+
+2: After The Successfull Insertion Of Images You Will See Your Images Above
+
+3: Then Click On One Of The Image To Preview That Image On The Right Side 
+
+4: Now If You Double Click The Previewed Image On Right Side , It Will Open The Image For Editing
+
+5: There You Can Do Anything To Your Image
+
+6: After Editing The Image You Have To Save The Original Image To See The Effects Applied 
+
+7: If You Save The Image As A Copy Then The Changes Will Not Observed ,For That You Have To Add The Copy Of That Image
+
+8: If You Right Click Any Selected Image ,Selection Colour Changes , Three Options Will Appear :-
+
+>>> Move Up ,This Will Move The Selected Image Up By One step
+
+>>> Move Down ,This Will Move The Selected Image Down By One step
+
+>>> Delete ,This Will Delete The Selected Image ,You Can Also Use Delete Button Of Keyboard For The Same
+
+9: To Remove The Highlight Press ESC Button On Your Keyboard
+
+10: You Can Also Use Up And Down Button On Your Keyboard To See The Images 
+
+11: Remove All Button Will Remove All The Images 
+
+12: You Can Choose Your Page Size From Size Combo 
+
+13: Also You Can Choose Quality For Your Pdf , This Will Insure Its Size
+
+14: Convert To Pdf Button Will Convert Your Images To Pdf
+
+>>> Size Of The Pdf Depends Upon Size Provided By You
+
+15: After Successfull Conversion It Will Open Pdf Made
+
+16: Done !!!!!!!
+
+NOTE ::-- If Any Of The Image Or  File In The Folder Or Added By User ,If Not Supported ,Will Automatically Get Deleted When You Click On It Or When Converted To Pdf
+
+             ##### THANKS ENJOY ! #####
+          ##### BY - HIMANSHU MAHAJAN #####
+
+
+
